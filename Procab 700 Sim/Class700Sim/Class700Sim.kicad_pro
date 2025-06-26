@@ -395,7 +395,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "kicad-embed://TSTechMainDrawingSheet.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://TrainSimTechDrawingSheet.kicad_wks",
     "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -411,6 +411,10 @@
     [
       "4ee86e03-7586-4a46-84d7-9db0ec8984cd",
       "Root"
+    ],
+    [
+      "4f35c858-93dc-467d-80f1-ab35a11c7fb9",
+      "Brake Gauge Panel"
     ],
     [
       "604ca295-84ed-4801-8b51-43cd4df4b06c",
