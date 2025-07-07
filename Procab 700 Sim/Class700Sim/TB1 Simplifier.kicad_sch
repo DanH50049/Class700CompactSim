@@ -1305,6 +1305,16 @@
 		)
 		(uuid "989fd98d-12e8-404f-a990-5bed9eabbb09")
 	)
+	(text "40\n39\n38\n37\n36\n35\n34\n33\n32\n31\n30\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1"
+		(exclude_from_sim no)
+		(at 82.55 224.028 0)
+		(effects
+			(font
+				(size 1.5773 1.5773)
+			)
+		)
+		(uuid "9c56a3a3-e5dc-4dd2-bcc5-558dcf9291bf")
+	)
 	(text "DX1A-16"
 		(exclude_from_sim no)
 		(at 72.39 136.144 0)
@@ -1415,16 +1425,6 @@
 		)
 		(uuid "a64f5082-9201-45d4-9e24-0b1e8268787e")
 	)
-	(text "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40"
-		(exclude_from_sim no)
-		(at 82.55 96.774 0)
-		(effects
-			(font
-				(size 1.5773 1.5773)
-			)
-		)
-		(uuid "a74a4d12-c85b-416f-bd86-230993438b81")
-	)
 	(text "DX1A-09"
 		(exclude_from_sim no)
 		(at 72.39 118.364 0)
@@ -1512,6 +1512,16 @@
 			(justify left)
 		)
 		(uuid "b0382bec-b17e-4176-a8ba-94fec3386455")
+	)
+	(text "90  \n89  \n88  \n87  \n86  \n85  \n84  \n83  \n82  \n81  \n80  \n79  \n78  \n77  \n76  \n75  \n74  \n73  \n72  \n71  \n70  \n69  \n68  \n67  \n66  \n65  \n64  \n63  \n62  \n61  \n60  \n59  \n58  \n57  \n56  \n55  \n54  \n53  \n52  \n51  \n50  \n49  \n48  \n47  \n46  \n45  \n44  \n43  \n42  \n41  "
+		(exclude_from_sim no)
+		(at 83.82 109.474 0)
+		(effects
+			(font
+				(size 1.5773 1.5773)
+			)
+		)
+		(uuid "b33cbca0-5cc8-49a4-b68a-2fc2f412e8c1")
 	)
 	(text "DX1A-10"
 		(exclude_from_sim no)
@@ -1776,16 +1786,6 @@
 			(justify right)
 		)
 		(uuid "d97b6eef-3c24-443a-becf-18559e4204ee")
-	)
-	(text "41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90"
-		(exclude_from_sim no)
-		(at 82.55 211.074 0)
-		(effects
-			(font
-				(size 1.5773 1.5773)
-			)
-		)
-		(uuid "d9a198b1-27d5-442d-9792-ebe915055f6c")
 	)
 	(text "N/C"
 		(exclude_from_sim no)
@@ -5114,869 +5114,6 @@
 		(cells
 			(table_cell "Pin"
 				(exclude_from_sim no)
-				(at 283.845 47.625 0)
-				(size 9.525 5.08)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "4e302b37-fc82-4ea3-9962-e110ffc7f9df")
-			)
-			(table_cell "Function"
-				(exclude_from_sim no)
-				(at 293.37 47.625 0)
-				(size 29.21 5.08)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "f7ebcafd-b44a-49a5-80a8-c76ffa346f47")
-			)
-			(table_cell "Modbus Address"
-				(exclude_from_sim no)
-				(at 322.58 47.625 0)
-				(size 10.795 5.08)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "48967ed5-6189-4fb8-9ce5-2f1d732fd6e5")
-			)
-			(table_cell "DI1"
-				(exclude_from_sim no)
-				(at 283.845 52.705 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "32ffc2cb-8549-4b3b-93e8-bfc3db5021bb")
-			)
-			(table_cell "DMI Changeover Left"
-				(exclude_from_sim no)
-				(at 293.37 52.705 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "f37481ab-b927-42fd-9fd1-bab00644ba9e")
-			)
-			(table_cell "DI: 17"
-				(exclude_from_sim no)
-				(at 322.58 52.705 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "cd8e8dc6-2833-41a4-8382-dac11c106eca")
-			)
-			(table_cell "DI2"
-				(exclude_from_sim no)
-				(at 283.845 55.245 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "cc5674ef-e061-48cd-82aa-96ee5122a2e9")
-			)
-			(table_cell "DMI Changeover Right"
-				(exclude_from_sim no)
-				(at 293.37 55.245 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "9e228c01-dff6-4856-a1a3-8fe125f9d0f6")
-			)
-			(table_cell "DI: 18"
-				(exclude_from_sim no)
-				(at 322.58 55.245 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "69523cb7-e198-4eb0-9705-3db4a44d9984")
-			)
-			(table_cell "DI3"
-				(exclude_from_sim no)
-				(at 283.845 57.785 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1b85f393-72d6-406d-bd17-b9cc366a84eb")
-			)
-			(table_cell "Emergency Stop"
-				(exclude_from_sim no)
-				(at 293.37 57.785 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "2c107955-a46c-47c4-8505-630bbd095e8d")
-			)
-			(table_cell "DI: 19"
-				(exclude_from_sim no)
-				(at 322.58 57.785 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "6e22805f-bbee-4ecf-9e1f-57ba63eb956e")
-			)
-			(table_cell "DI4"
-				(exclude_from_sim no)
-				(at 283.845 60.325 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "0ac8d601-00be-4651-b7e3-a69e11f1e9b5")
-			)
-			(table_cell "DRA"
-				(exclude_from_sim no)
-				(at 293.37 60.325 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "411e7e30-41aa-404a-b8bf-2b4b4e7aeb33")
-			)
-			(table_cell "DI: 20"
-				(exclude_from_sim no)
-				(at 322.58 60.325 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c1381d8f-8ffe-46c3-858a-346ff9b644f9")
-			)
-			(table_cell "DI5"
-				(exclude_from_sim no)
-				(at 283.845 62.865 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "7c46caa5-5281-4fcc-a6d2-81669e48726a")
-			)
-			(table_cell "PBC Backup"
-				(exclude_from_sim no)
-				(at 293.37 62.865 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "0bcdce1a-274e-4f98-9d72-311111279ff5")
-			)
-			(table_cell "DI: 21"
-				(exclude_from_sim no)
-				(at 322.58 62.865 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "963fcb26-c2e4-4e7f-9968-0d948348015f")
-			)
-			(table_cell "DI6"
-				(exclude_from_sim no)
-				(at 283.845 65.405 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1f908031-9c3f-4963-8c11-0170e3f0b83a")
-			)
-			(table_cell "Power Mode AC"
-				(exclude_from_sim no)
-				(at 293.37 65.405 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "ecf2dc74-9c86-4e21-837c-f7b3de2a9117")
-			)
-			(table_cell "DI: 22"
-				(exclude_from_sim no)
-				(at 322.58 65.405 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "283d1eb0-d35d-4a78-8d5f-cd0fbef0c2f4")
-			)
-			(table_cell "DI7"
-				(exclude_from_sim no)
-				(at 283.845 67.945 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "5aace797-0230-4700-beab-d19ad3aad5f6")
-			)
-			(table_cell "Power Mode DC"
-				(exclude_from_sim no)
-				(at 293.37 67.945 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "bf7e2b0c-a82f-4597-9ccb-1ccb07c28a90")
-			)
-			(table_cell "DI: 23"
-				(exclude_from_sim no)
-				(at 322.58 67.945 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "d1004c16-429d-41ef-830e-02f807ff98bd")
-			)
-			(table_cell "DI8"
-				(exclude_from_sim no)
-				(at 283.845 70.485 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "4fc3bf16-a89f-4da8-8c92-6a5c91f9cd7d")
-			)
-			(table_cell "Power Control On"
-				(exclude_from_sim no)
-				(at 293.37 70.485 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "e98d8a00-31e0-4c0c-bad2-2a22fb06d34a")
-			)
-			(table_cell "DI: 24"
-				(exclude_from_sim no)
-				(at 322.58 70.485 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c36bff43-dd3b-46c2-99b8-4d7cea3611d9")
-			)
-			(table_cell "DI9"
-				(exclude_from_sim no)
-				(at 283.845 73.025 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "eb5e8a5b-a611-46f1-9c4d-c4fc32008672")
-			)
-			(table_cell "Power Control Off"
-				(exclude_from_sim no)
-				(at 293.37 73.025 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "9a94d490-a729-4fec-bd8c-cbac5047e945")
-			)
-			(table_cell "DI: 25"
-				(exclude_from_sim no)
-				(at 322.58 73.025 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "50343972-7ed3-4631-9a45-b1cb9987e23a")
-			)
-			(table_cell "DI10"
-				(exclude_from_sim no)
-				(at 283.845 75.565 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "15e32487-4deb-457c-9ef1-74019211dd8a")
-			)
-			(table_cell "Desk Light"
-				(exclude_from_sim no)
-				(at 293.37 75.565 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "4637cee6-0321-4cda-b51a-e3c53f8dab04")
-			)
-			(table_cell "DI: 16"
-				(exclude_from_sim no)
-				(at 322.58 75.565 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "5ebc673e-8b5a-459a-8070-73c3bb98e8a1")
-			)
-			(table_cell "DI11"
-				(exclude_from_sim no)
-				(at 283.845 78.105 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "3f0b682d-3bbc-4039-8c41-ae01c69d0ecb")
-			)
-			(table_cell "Headlights Tail"
-				(exclude_from_sim no)
-				(at 293.37 78.105 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "504a6a4d-da19-4806-8376-8240c18e936a")
-			)
-			(table_cell "DI: 27"
-				(exclude_from_sim no)
-				(at 322.58 78.105 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "34a342ba-2735-4edc-b4a8-0312a0af56bc")
-			)
-			(table_cell "DI12"
-				(exclude_from_sim no)
-				(at 283.845 80.645 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "bb19c4ab-6f2c-4949-ba87-3f310930543a")
-			)
-			(table_cell "Headlights Markers"
-				(exclude_from_sim no)
-				(at 293.37 80.645 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "012988a6-344e-417f-a07e-3f92338f32d1")
-			)
-			(table_cell "DI: 28"
-				(exclude_from_sim no)
-				(at 322.58 80.645 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "7a293fce-ac7e-409a-b21d-1bcc3e4378db")
-			)
-			(table_cell "DI13"
-				(exclude_from_sim no)
-				(at 283.845 83.185 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "482ecc59-71ac-4fa0-a814-78c6e5b08e51")
-			)
-			(table_cell "Headlights Dim"
-				(exclude_from_sim no)
-				(at 293.37 83.185 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "d4883ed9-dd15-4529-b320-642737a8e398")
-			)
-			(table_cell "DI: 29"
-				(exclude_from_sim no)
-				(at 322.58 83.185 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "bf05f84b-4606-4cdb-9f5c-f4f5aefbd4e3")
-			)
-			(table_cell "DI14"
-				(exclude_from_sim no)
-				(at 283.845 85.725 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "9e824742-1fa9-4fa4-a065-6e7891124f17")
-			)
-			(table_cell "Headlights Bright"
-				(exclude_from_sim no)
-				(at 293.37 85.725 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "df47e61a-6ed7-4064-b235-133f1aa603d6")
-			)
-			(table_cell "DI: 30"
-				(exclude_from_sim no)
-				(at 322.58 85.725 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "9ddd0c65-b063-4bfa-84c7-cf37004b8bc3")
-			)
-			(table_cell "DI15"
-				(exclude_from_sim no)
-				(at 283.845 88.265 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "05280442-d131-4237-91f9-fb2174324984")
-			)
-			(table_cell "Windscreen Heater"
-				(exclude_from_sim no)
-				(at 293.37 88.265 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "b87f520a-5a3b-4839-b366-d80e35b341bb")
-			)
-			(table_cell "DI: 31"
-				(exclude_from_sim no)
-				(at 322.58 88.265 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1ba7380a-003e-420c-aff3-5cc0a5ad1246")
-			)
-			(table_cell "DI16"
-				(exclude_from_sim no)
-				(at 283.845 90.805 0)
-				(size 9.525 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1b549e14-914c-4436-b6f2-355cbc3eef80")
-			)
-			(table_cell "Windscreen Wash"
-				(exclude_from_sim no)
-				(at 293.37 90.805 0)
-				(size 29.21 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-				(uuid "4303720d-c132-4ed3-9db3-e741134a7bcd")
-			)
-			(table_cell "DI: 32"
-				(exclude_from_sim no)
-				(at 322.58 90.805 0)
-				(size 10.795 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "eb1e3156-bf1a-49b4-bb4b-9cc7b3e5ec00")
-			)
-		)
-	)
-	(table
-		(column_count 3)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 9.525 29.21 10.795)
-		(row_heights 5.08 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
-			2.54 2.54 2.54 2.54 2.54
-		)
-		(cells
-			(table_cell "Pin"
-				(exclude_from_sim no)
 				(at 283.845 109.855 0)
 				(size 9.525 5.08)
 				(margins 0.9525 0.9525 0.9525 0.9525)
@@ -8526,6 +7663,869 @@
 			(table_cell "DI: 48"
 				(exclude_from_sim no)
 				(at 264.16 153.035 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "eb1e3156-bf1a-49b4-bb4b-9cc7b3e5ec00")
+			)
+		)
+	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 9.525 29.21 10.795)
+		(row_heights 5.08 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
+			2.54 2.54 2.54 2.54 2.54
+		)
+		(cells
+			(table_cell "Pin"
+				(exclude_from_sim no)
+				(at 283.845 47.625 0)
+				(size 9.525 5.08)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "4e302b37-fc82-4ea3-9962-e110ffc7f9df")
+			)
+			(table_cell "Function"
+				(exclude_from_sim no)
+				(at 293.37 47.625 0)
+				(size 29.21 5.08)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "f7ebcafd-b44a-49a5-80a8-c76ffa346f47")
+			)
+			(table_cell "Modbus Address"
+				(exclude_from_sim no)
+				(at 322.58 47.625 0)
+				(size 10.795 5.08)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "48967ed5-6189-4fb8-9ce5-2f1d732fd6e5")
+			)
+			(table_cell "DI1"
+				(exclude_from_sim no)
+				(at 283.845 52.705 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "32ffc2cb-8549-4b3b-93e8-bfc3db5021bb")
+			)
+			(table_cell "DMI Changeover Left"
+				(exclude_from_sim no)
+				(at 293.37 52.705 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "f37481ab-b927-42fd-9fd1-bab00644ba9e")
+			)
+			(table_cell "DI: 17"
+				(exclude_from_sim no)
+				(at 322.58 52.705 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "cd8e8dc6-2833-41a4-8382-dac11c106eca")
+			)
+			(table_cell "DI2"
+				(exclude_from_sim no)
+				(at 283.845 55.245 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "cc5674ef-e061-48cd-82aa-96ee5122a2e9")
+			)
+			(table_cell "DMI Changeover Right"
+				(exclude_from_sim no)
+				(at 293.37 55.245 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "9e228c01-dff6-4856-a1a3-8fe125f9d0f6")
+			)
+			(table_cell "DI: 18"
+				(exclude_from_sim no)
+				(at 322.58 55.245 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "69523cb7-e198-4eb0-9705-3db4a44d9984")
+			)
+			(table_cell "DI3"
+				(exclude_from_sim no)
+				(at 283.845 57.785 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1b85f393-72d6-406d-bd17-b9cc366a84eb")
+			)
+			(table_cell "Emergency Stop"
+				(exclude_from_sim no)
+				(at 293.37 57.785 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "2c107955-a46c-47c4-8505-630bbd095e8d")
+			)
+			(table_cell "DI: 19"
+				(exclude_from_sim no)
+				(at 322.58 57.785 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "6e22805f-bbee-4ecf-9e1f-57ba63eb956e")
+			)
+			(table_cell "DI4"
+				(exclude_from_sim no)
+				(at 283.845 60.325 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "0ac8d601-00be-4651-b7e3-a69e11f1e9b5")
+			)
+			(table_cell "DRA"
+				(exclude_from_sim no)
+				(at 293.37 60.325 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "411e7e30-41aa-404a-b8bf-2b4b4e7aeb33")
+			)
+			(table_cell "DI: 20"
+				(exclude_from_sim no)
+				(at 322.58 60.325 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c1381d8f-8ffe-46c3-858a-346ff9b644f9")
+			)
+			(table_cell "DI5"
+				(exclude_from_sim no)
+				(at 283.845 62.865 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "7c46caa5-5281-4fcc-a6d2-81669e48726a")
+			)
+			(table_cell "PBC Backup"
+				(exclude_from_sim no)
+				(at 293.37 62.865 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "0bcdce1a-274e-4f98-9d72-311111279ff5")
+			)
+			(table_cell "DI: 21"
+				(exclude_from_sim no)
+				(at 322.58 62.865 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "963fcb26-c2e4-4e7f-9968-0d948348015f")
+			)
+			(table_cell "DI6"
+				(exclude_from_sim no)
+				(at 283.845 65.405 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1f908031-9c3f-4963-8c11-0170e3f0b83a")
+			)
+			(table_cell "Power Mode AC"
+				(exclude_from_sim no)
+				(at 293.37 65.405 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "ecf2dc74-9c86-4e21-837c-f7b3de2a9117")
+			)
+			(table_cell "DI: 22"
+				(exclude_from_sim no)
+				(at 322.58 65.405 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "283d1eb0-d35d-4a78-8d5f-cd0fbef0c2f4")
+			)
+			(table_cell "DI7"
+				(exclude_from_sim no)
+				(at 283.845 67.945 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "5aace797-0230-4700-beab-d19ad3aad5f6")
+			)
+			(table_cell "Power Mode DC"
+				(exclude_from_sim no)
+				(at 293.37 67.945 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "bf7e2b0c-a82f-4597-9ccb-1ccb07c28a90")
+			)
+			(table_cell "DI: 23"
+				(exclude_from_sim no)
+				(at 322.58 67.945 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d1004c16-429d-41ef-830e-02f807ff98bd")
+			)
+			(table_cell "DI8"
+				(exclude_from_sim no)
+				(at 283.845 70.485 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "4fc3bf16-a89f-4da8-8c92-6a5c91f9cd7d")
+			)
+			(table_cell "Power Control On"
+				(exclude_from_sim no)
+				(at 293.37 70.485 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "e98d8a00-31e0-4c0c-bad2-2a22fb06d34a")
+			)
+			(table_cell "DI: 24"
+				(exclude_from_sim no)
+				(at 322.58 70.485 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c36bff43-dd3b-46c2-99b8-4d7cea3611d9")
+			)
+			(table_cell "DI9"
+				(exclude_from_sim no)
+				(at 283.845 73.025 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "eb5e8a5b-a611-46f1-9c4d-c4fc32008672")
+			)
+			(table_cell "Power Control Off"
+				(exclude_from_sim no)
+				(at 293.37 73.025 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "9a94d490-a729-4fec-bd8c-cbac5047e945")
+			)
+			(table_cell "DI: 25"
+				(exclude_from_sim no)
+				(at 322.58 73.025 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "50343972-7ed3-4631-9a45-b1cb9987e23a")
+			)
+			(table_cell "DI10"
+				(exclude_from_sim no)
+				(at 283.845 75.565 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "15e32487-4deb-457c-9ef1-74019211dd8a")
+			)
+			(table_cell "Desk Light"
+				(exclude_from_sim no)
+				(at 293.37 75.565 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "4637cee6-0321-4cda-b51a-e3c53f8dab04")
+			)
+			(table_cell "DI: 16"
+				(exclude_from_sim no)
+				(at 322.58 75.565 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "5ebc673e-8b5a-459a-8070-73c3bb98e8a1")
+			)
+			(table_cell "DI11"
+				(exclude_from_sim no)
+				(at 283.845 78.105 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "3f0b682d-3bbc-4039-8c41-ae01c69d0ecb")
+			)
+			(table_cell "Headlights Tail"
+				(exclude_from_sim no)
+				(at 293.37 78.105 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "504a6a4d-da19-4806-8376-8240c18e936a")
+			)
+			(table_cell "DI: 27"
+				(exclude_from_sim no)
+				(at 322.58 78.105 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "34a342ba-2735-4edc-b4a8-0312a0af56bc")
+			)
+			(table_cell "DI12"
+				(exclude_from_sim no)
+				(at 283.845 80.645 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "bb19c4ab-6f2c-4949-ba87-3f310930543a")
+			)
+			(table_cell "Headlights Markers"
+				(exclude_from_sim no)
+				(at 293.37 80.645 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "012988a6-344e-417f-a07e-3f92338f32d1")
+			)
+			(table_cell "DI: 28"
+				(exclude_from_sim no)
+				(at 322.58 80.645 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "7a293fce-ac7e-409a-b21d-1bcc3e4378db")
+			)
+			(table_cell "DI13"
+				(exclude_from_sim no)
+				(at 283.845 83.185 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "482ecc59-71ac-4fa0-a814-78c6e5b08e51")
+			)
+			(table_cell "Headlights Dim"
+				(exclude_from_sim no)
+				(at 293.37 83.185 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "d4883ed9-dd15-4529-b320-642737a8e398")
+			)
+			(table_cell "DI: 29"
+				(exclude_from_sim no)
+				(at 322.58 83.185 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "bf05f84b-4606-4cdb-9f5c-f4f5aefbd4e3")
+			)
+			(table_cell "DI14"
+				(exclude_from_sim no)
+				(at 283.845 85.725 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "9e824742-1fa9-4fa4-a065-6e7891124f17")
+			)
+			(table_cell "Headlights Bright"
+				(exclude_from_sim no)
+				(at 293.37 85.725 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "df47e61a-6ed7-4064-b235-133f1aa603d6")
+			)
+			(table_cell "DI: 30"
+				(exclude_from_sim no)
+				(at 322.58 85.725 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "9ddd0c65-b063-4bfa-84c7-cf37004b8bc3")
+			)
+			(table_cell "DI15"
+				(exclude_from_sim no)
+				(at 283.845 88.265 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "05280442-d131-4237-91f9-fb2174324984")
+			)
+			(table_cell "Windscreen Heater"
+				(exclude_from_sim no)
+				(at 293.37 88.265 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "b87f520a-5a3b-4839-b366-d80e35b341bb")
+			)
+			(table_cell "DI: 31"
+				(exclude_from_sim no)
+				(at 322.58 88.265 0)
+				(size 10.795 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1ba7380a-003e-420c-aff3-5cc0a5ad1246")
+			)
+			(table_cell "DI16"
+				(exclude_from_sim no)
+				(at 283.845 90.805 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1b549e14-914c-4436-b6f2-355cbc3eef80")
+			)
+			(table_cell "Windscreen Wash"
+				(exclude_from_sim no)
+				(at 293.37 90.805 0)
+				(size 29.21 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+				(uuid "4303720d-c132-4ed3-9db3-e741134a7bcd")
+			)
+			(table_cell "DI: 32"
+				(exclude_from_sim no)
+				(at 322.58 90.805 0)
 				(size 10.795 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
