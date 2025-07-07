@@ -5442,6 +5442,17 @@
 		)
 		(uuid f7ffe775-2119-4c78-986e-0aad52dea2f7)
 	)
+	(text "Air Gauge\nPanel"
+		(exclude_from_sim no)
+		(at 154.94 120.65 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36fdf40b-0283-42bb-ae7f-03da0c178934")
+	)
 	(text "SW-FNR"
 		(exclude_from_sim no)
 		(at 323.85 219.964 0)
@@ -5494,11 +5505,12 @@
 	)
 	(text "DB25 Male\nConnector"
 		(exclude_from_sim no)
-		(at 162.56 121.666 0)
+		(at 162.814 120.396 90)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify right)
 		)
 		(uuid "879bb01b-ae9b-478b-b3fb-e29f2eb12958")
 	)
@@ -5762,6 +5774,26 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 97.79) (xy 217.17 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04597573-f00c-4ab3-abae-f8ea02a0621d")
+	)
+	(wire
+		(pts
+			(xy 240.03 97.79) (xy 240.03 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05d22a74-daa9-40d7-a566-51cfc33106c8")
+	)
+	(wire
+		(pts
 			(xy 228.6 276.86) (xy 238.76 276.86)
 		)
 		(stroke
@@ -5792,6 +5824,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 97.79) (xy 222.25 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b5c13ae-3461-4aed-a8c5-3e7f1d00dff6")
+	)
+	(wire
+		(pts
 			(xy 179.07 60.96) (xy 179.07 77.47)
 		)
 		(stroke
@@ -5802,7 +5844,7 @@
 	)
 	(polyline
 		(pts
-			(xy 165.1 115.57) (xy 165.1 118.745)
+			(xy 165.1 115.57) (xy 165.1 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6032,6 +6074,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 97.79) (xy 229.87 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "274ca5f2-a489-4993-a138-96be776cf8a2")
+	)
+	(wire
+		(pts
 			(xy 228.6 207.01) (xy 173.99 207.01)
 		)
 		(stroke
@@ -6102,13 +6154,23 @@
 	)
 	(polyline
 		(pts
-			(xy 160.02 115.57) (xy 160.02 118.745)
+			(xy 160.02 115.57) (xy 160.02 119.38)
 		)
 		(stroke
 			(width 0)
 			(type dash)
 		)
 		(uuid "2b3499f1-95a9-4709-98b1-3f83c9b8b5a7")
+	)
+	(polyline
+		(pts
+			(xy 149.86 115.57) (xy 149.86 119.38)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "2c191784-c7a8-4910-b7bc-8f9df0f13790")
 	)
 	(wire
 		(pts
@@ -6132,6 +6194,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 97.79) (xy 214.63 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e425b89-3ecc-4e74-aa0b-5222916dc463")
+	)
+	(wire
+		(pts
 			(xy 158.75 222.25) (xy 158.75 191.77)
 		)
 		(stroke
@@ -6139,6 +6211,16 @@
 			(type default)
 		)
 		(uuid "2f30b534-6e09-4d7f-b83d-6343c30bf81f")
+	)
+	(wire
+		(pts
+			(xy 237.49 97.79) (xy 237.49 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f540b38-a2d5-4ae3-860c-10e001360712")
 	)
 	(wire
 		(pts
@@ -6252,6 +6334,16 @@
 	)
 	(wire
 		(pts
+			(xy 326.39 97.79) (xy 326.39 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38af8697-3170-461b-b80b-daf413fc7225")
+	)
+	(wire
+		(pts
 			(xy 257.81 60.96) (xy 257.81 77.47)
 		)
 		(stroke
@@ -6299,6 +6391,16 @@
 			(type default)
 		)
 		(uuid "3cd0497f-4753-4e53-b9f4-1dba9b85cde7")
+	)
+	(wire
+		(pts
+			(xy 153.67 97.79) (xy 153.67 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d286416-23f6-4fee-a1ff-8f66ec59f95b")
 	)
 	(wire
 		(pts
@@ -6439,6 +6541,16 @@
 			(type default)
 		)
 		(uuid "49588f27-3785-4d20-be4c-65166b9812d2")
+	)
+	(wire
+		(pts
+			(xy 212.09 97.79) (xy 212.09 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dcbd698-bb84-437d-8672-7858f4bedf10")
 	)
 	(wire
 		(pts
@@ -6642,6 +6754,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 97.79) (xy 224.79 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c7035f0-9ed2-4f0d-85a2-863b876620b3")
+	)
+	(wire
+		(pts
 			(xy 275.59 60.96) (xy 275.59 77.47)
 		)
 		(stroke
@@ -6649,6 +6771,16 @@
 			(type default)
 		)
 		(uuid "5c8f153e-0efa-48b0-aef8-1a0543b2056c")
+	)
+	(wire
+		(pts
+			(xy 227.33 97.79) (xy 227.33 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cbbeba8-324c-4a88-903f-0607d49216c9")
 	)
 	(wire
 		(pts
@@ -6679,6 +6811,16 @@
 			(type default)
 		)
 		(uuid "5e242800-5b5e-4005-9167-0cebfaa1877e")
+	)
+	(wire
+		(pts
+			(xy 242.57 97.79) (xy 242.57 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e548549-0424-460e-b60a-8edfef4b8fb6")
 	)
 	(wire
 		(pts
@@ -7072,7 +7214,7 @@
 	)
 	(polyline
 		(pts
-			(xy 160.02 118.745) (xy 165.1 118.745)
+			(xy 160.02 119.38) (xy 165.1 119.38)
 		)
 		(stroke
 			(width 0)
@@ -7120,6 +7262,16 @@
 		)
 		(uuid "8c39d2e9-02ea-422f-9371-3b44a3164cb4")
 	)
+	(wire
+		(pts
+			(xy 209.55 97.79) (xy 209.55 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cfd2701-e748-4fec-98e6-a7e8800a4c89")
+	)
 	(polyline
 		(pts
 			(xy 50.8 173.99) (xy 50.8 280.67)
@@ -7129,6 +7281,16 @@
 			(type dash)
 		)
 		(uuid "8df8536d-9dd7-4d07-a5fc-2d461610a622")
+	)
+	(wire
+		(pts
+			(xy 207.01 97.79) (xy 207.01 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e1261ae-4d7a-40ff-a531-8f96a7303145")
 	)
 	(wire
 		(pts
@@ -7219,6 +7381,16 @@
 			(type default)
 		)
 		(uuid "9af16a0c-71a9-49e0-9ec8-70681008e125")
+	)
+	(wire
+		(pts
+			(xy 232.41 97.79) (xy 232.41 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b4366ba-9734-4a42-be8c-88f171aa8451")
 	)
 	(wire
 		(pts
@@ -7362,6 +7534,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 97.79) (xy 328.93 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8ea9b6d-f849-48e9-85c1-3a2545a4e2d8")
+	)
+	(wire
+		(pts
 			(xy 260.35 60.96) (xy 260.35 77.47)
 		)
 		(stroke
@@ -7489,6 +7671,16 @@
 			(type default)
 		)
 		(uuid "b3b94a02-656b-4e57-b834-041660afded5")
+	)
+	(wire
+		(pts
+			(xy 156.21 97.79) (xy 156.21 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7d5aae7-b4e1-41e3-bdc1-c1039dd3c138")
 	)
 	(wire
 		(pts
@@ -7742,6 +7934,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 97.79) (xy 245.11 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ced1730c-7ba5-4c69-9c77-bdaf00a350f3")
+	)
+	(wire
+		(pts
 			(xy 128.27 60.96) (xy 128.27 77.47)
 		)
 		(stroke
@@ -7802,6 +8004,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 97.79) (xy 158.75 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7ed4aca-b159-4dd6-b1e8-d6d137f74ff0")
+	)
+	(wire
+		(pts
 			(xy 280.67 97.79) (xy 280.67 114.3)
 		)
 		(stroke
@@ -7809,6 +8021,16 @@
 			(type default)
 		)
 		(uuid "d8477bc5-aac4-4efe-8d3b-b4339ce92c66")
+	)
+	(wire
+		(pts
+			(xy 151.13 97.79) (xy 151.13 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da4808c3-3aba-43fe-b7f4-ea6fe5d964d3")
 	)
 	(wire
 		(pts
@@ -7869,6 +8091,16 @@
 			(type default)
 		)
 		(uuid "dee0697c-92f2-430c-8a15-e3931acfe31e")
+	)
+	(polyline
+		(pts
+			(xy 149.86 119.38) (xy 160.02 119.38)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "df148823-94c3-4d81-b4e9-7a07faf962de")
 	)
 	(wire
 		(pts
@@ -7989,6 +8221,16 @@
 			(type default)
 		)
 		(uuid "e71d1d55-36c5-4446-9e33-cf9212bf9e25")
+	)
+	(wire
+		(pts
+			(xy 234.95 97.79) (xy 234.95 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7d3284b-3869-495e-986d-ca488a27da7d")
 	)
 	(wire
 		(pts
@@ -8152,6 +8394,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 97.79) (xy 219.71 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5b8f066-0ade-451c-a5df-9a1f3ed4f065")
+	)
+	(wire
+		(pts
 			(xy 194.31 60.96) (xy 194.31 77.47)
 		)
 		(stroke
@@ -8231,32 +8483,22 @@
 		(uuid "ff81d83b-a173-4db2-a79d-c14b980a8774")
 	)
 	(table
-		(column_count 2)
+		(column_count 3)
 		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
+			(external no)
+			(header no)
 		)
 		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
+			(rows no)
+			(cols no)
 		)
-		(column_widths 6.35 19.05)
-		(row_heights 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
-			2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
-		)
+		(column_widths 7.62 7.62 7.62)
+		(row_heights 24.13)
 		(cells
-			(table_cell "1"
+			(table_cell "Forward"
 				(exclude_from_sim no)
-				(at 20.32 132.08 0)
-				(size 6.35 2.54)
+				(at 312.42 222.25 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8265,17 +8507,15 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "a266f15b-a5b9-4bea-afb7-81be8b85cbd3")
+				(uuid "e97681d6-66ce-48a1-adfb-9a74fbedebf4")
 			)
-			(table_cell "PA2000"
+			(table_cell "Neutral"
 				(exclude_from_sim no)
-				(at 26.67 132.08 0)
-				(size 19.05 2.54)
+				(at 320.04 222.25 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8284,33 +8524,15 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-				(uuid "3c2c3d25-b768-4fbe-a69b-539970ab30cf")
-			)
-			(table_cell "2"
-				(exclude_from_sim no)
-				(at 20.32 134.62 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "9c92a970-62a7-46f5-8eb9-a303418f7b8e")
+				(uuid "5564feb1-ea8d-44df-b95f-bac98743e82e")
 			)
-			(table_cell "DX1A-02"
+			(table_cell "Reverse"
 				(exclude_from_sim no)
-				(at 26.67 134.62 0)
-				(size 19.05 2.54)
+				(at 327.66 222.25 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8319,33 +8541,30 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-				(uuid "1d9a4074-8813-4519-a3a6-635414bd4ab1")
-			)
-			(table_cell "3"
-				(exclude_from_sim no)
-				(at 20.32 137.16 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "30d8280a-3705-4a95-82b6-5eb9986a6286")
+				(uuid "ec76aec2-6fb1-403c-9c45-77866842fe94")
 			)
-			(table_cell "DX1D-01"
+		)
+	)
+	(table
+		(column_count 3)
+		(border
+			(external no)
+			(header no)
+		)
+		(separators
+			(rows no)
+			(cols no)
+		)
+		(column_widths 7.62 7.62 7.62)
+		(row_heights 24.13)
+		(cells
+			(table_cell "High"
 				(exclude_from_sim no)
-				(at 26.67 137.16 0)
-				(size 19.05 2.54)
+				(at 312.42 187.96 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8354,33 +8573,15 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-				(uuid "a3744694-53b4-462e-b474-d5df9dc13d3d")
-			)
-			(table_cell "4"
-				(exclude_from_sim no)
-				(at 20.32 139.7 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "6ca30932-0393-41cb-a641-fe47e300b5a8")
+				(uuid "e97681d6-66ce-48a1-adfb-9a74fbedebf4")
 			)
-			(table_cell "DX1A-05"
+			(table_cell "Neutral"
 				(exclude_from_sim no)
-				(at 26.67 139.7 0)
-				(size 19.05 2.54)
+				(at 320.04 187.96 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8389,33 +8590,15 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-				(uuid "d4a3e07b-a30c-4df3-8e25-c15bb59164f9")
-			)
-			(table_cell "5"
-				(exclude_from_sim no)
-				(at 20.32 142.24 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "52fcc0ac-6b11-4612-b0ec-ff2ca50e1ae5")
+				(uuid "5564feb1-ea8d-44df-b95f-bac98743e82e")
 			)
-			(table_cell "DX1A-07"
+			(table_cell "Low"
 				(exclude_from_sim no)
-				(at 26.67 142.24 0)
-				(size 19.05 2.54)
+				(at 327.66 187.96 0)
+				(size 7.62 24.13)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -8424,709 +8607,10 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-				(uuid "d11bc42f-b638-49df-b846-e0927edc35b6")
-			)
-			(table_cell "6"
-				(exclude_from_sim no)
-				(at 20.32 144.78 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "64a485b7-bf83-4106-b0ec-375c1579e327")
-			)
-			(table_cell "N/C"
-				(exclude_from_sim no)
-				(at 26.67 144.78 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "09ce0593-7100-4446-a94c-c9989727ba92")
-			)
-			(table_cell "7"
-				(exclude_from_sim no)
-				(at 20.32 147.32 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "e5a16002-62d1-42dc-94b7-f78993d8a24c")
-			)
-			(table_cell "N/C"
-				(exclude_from_sim no)
-				(at 26.67 147.32 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1f827fda-6832-4b52-9d45-b8243e7da5a4")
-			)
-			(table_cell "8"
-				(exclude_from_sim no)
-				(at 20.32 149.86 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "6de3a86d-648c-4077-8d24-dd8770b362a1")
-			)
-			(table_cell "DX1A-09"
-				(exclude_from_sim no)
-				(at 26.67 149.86 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c07b2224-a0c7-4d52-9a9c-492c62b52888")
-			)
-			(table_cell "9"
-				(exclude_from_sim no)
-				(at 20.32 152.4 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "44f5a77f-2b12-4442-96f2-10f8a30bc9a1")
-			)
-			(table_cell "DX1A-11"
-				(exclude_from_sim no)
-				(at 26.67 152.4 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "b76acca7-26b1-4246-8c90-3bd24e24d70b")
-			)
-			(table_cell "10"
-				(exclude_from_sim no)
-				(at 20.32 154.94 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "4cddbfe5-457c-402a-ba73-17a012cd22d9")
-			)
-			(table_cell "DX1A-12"
-				(exclude_from_sim no)
-				(at 26.67 154.94 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "dc464a7b-e3eb-4a62-8db8-170b9eec2828")
-			)
-			(table_cell "11"
-				(exclude_from_sim no)
-				(at 20.32 157.48 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "0507799a-10e9-47b5-bb59-5d3b0f69a60d")
-			)
-			(table_cell "DX1A-14"
-				(exclude_from_sim no)
-				(at 26.67 157.48 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c060d5a7-04e7-4ed3-80d4-754278193648")
-			)
-			(table_cell "12"
-				(exclude_from_sim no)
-				(at 20.32 160.02 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "f14cac39-396f-428e-bb23-7e2ed73226e0")
-			)
-			(table_cell "DX1A-15"
-				(exclude_from_sim no)
-				(at 26.67 160.02 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "0debfc04-ed53-42aa-86b4-fa761f44e4cc")
-			)
-			(table_cell "13"
-				(exclude_from_sim no)
-				(at 20.32 162.56 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "1332a18b-998e-4e85-8bef-c7bc80c38f77")
-			)
-			(table_cell "PA4000"
-				(exclude_from_sim no)
-				(at 26.67 162.56 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "1c5b6f91-f7d1-4683-abae-5d20622bc872")
-			)
-			(table_cell "14"
-				(exclude_from_sim no)
-				(at 20.32 165.1 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "c164f8a0-a6f8-4467-ace6-362d62d566f7")
-			)
-			(table_cell "DX1A-01"
-				(exclude_from_sim no)
-				(at 26.67 165.1 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "0b9353e1-538a-40f1-a0d8-b6a608421213")
-			)
-			(table_cell "15"
-				(exclude_from_sim no)
-				(at 20.32 167.64 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "ba3a228a-6ef4-4229-b867-180f8ccd8938")
-			)
-			(table_cell "DX1A-03"
-				(exclude_from_sim no)
-				(at 26.67 167.64 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "101e69eb-d14f-48d6-9356-96c290af44f2")
-			)
-			(table_cell "16"
-				(exclude_from_sim no)
-				(at 20.32 170.18 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "8e863088-cfce-43ec-9bc3-471114598f7d")
-			)
-			(table_cell "DX1A-04"
-				(exclude_from_sim no)
-				(at 26.67 170.18 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "7e99cd8f-b3d4-4694-b69f-9cf2f3f77ca1")
-			)
-			(table_cell "17"
-				(exclude_from_sim no)
-				(at 20.32 172.72 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "b495a9ea-af64-4890-af9b-cb4fb991eba9")
-			)
-			(table_cell "DX1A-06"
-				(exclude_from_sim no)
-				(at 26.67 172.72 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "f870e5df-2704-4b69-959c-485fe0169b79")
-			)
-			(table_cell "18"
-				(exclude_from_sim no)
-				(at 20.32 175.26 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "aebcc827-5665-477a-8452-f4f6d38f80f9")
-			)
-			(table_cell "N/C"
-				(exclude_from_sim no)
-				(at 26.67 175.26 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "65b0cbbe-2292-421c-aada-28792fb85a51")
-			)
-			(table_cell "19"
-				(exclude_from_sim no)
-				(at 20.32 177.8 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "4974d807-d270-4c58-87f0-30d381d62736")
-			)
-			(table_cell "N/C"
-				(exclude_from_sim no)
-				(at 26.67 177.8 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "d53feb5a-7010-43a4-94fc-64d7f9a32da1")
-			)
-			(table_cell "20"
-				(exclude_from_sim no)
-				(at 20.32 180.34 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "fe3b8543-0a61-46da-b753-39b418b71abb")
-			)
-			(table_cell "DX1A-08"
-				(exclude_from_sim no)
-				(at 26.67 180.34 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "62746c89-bb18-48cb-b824-b46de471a92c")
-			)
-			(table_cell "21"
-				(exclude_from_sim no)
-				(at 20.32 182.88 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "32c87f7b-886c-49e9-b3ab-0360a0cd6f56")
-			)
-			(table_cell "DX1A-10"
-				(exclude_from_sim no)
-				(at 26.67 182.88 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "d5b515c1-867f-4022-b158-adb8e4526a82")
-			)
-			(table_cell "22"
-				(exclude_from_sim no)
-				(at 20.32 185.42 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "7e06c2dd-0604-42b0-8408-e1afe7a7253a")
-			)
-			(table_cell "DX1D-02"
-				(exclude_from_sim no)
-				(at 26.67 185.42 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c6af43eb-586f-4305-9e8e-83e22d1a3e9e")
-			)
-			(table_cell "23"
-				(exclude_from_sim no)
-				(at 20.32 187.96 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "e480e119-6fee-4291-80c1-eeeba1204f0f")
-			)
-			(table_cell "DX1A-13"
-				(exclude_from_sim no)
-				(at 26.67 187.96 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "89109ecf-8701-4a04-9e92-797420b9c050")
-			)
-			(table_cell "24"
-				(exclude_from_sim no)
-				(at 20.32 190.5 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "15cc4121-6235-4825-a116-c098609d20b0")
-			)
-			(table_cell "DX1D-01"
-				(exclude_from_sim no)
-				(at 26.67 190.5 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "f0b2f0b7-b561-415d-b512-a9bace0bf184")
-			)
-			(table_cell "25"
-				(exclude_from_sim no)
-				(at 20.32 193.04 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-					(justify top)
-				)
-				(uuid "3810e05a-4dff-4740-8913-ee68be657e6a")
-			)
-			(table_cell "DX1A-16"
-				(exclude_from_sim no)
-				(at 26.67 193.04 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "19a041ca-d1dc-499c-adef-92bea5f871fb")
+				(uuid "ec76aec2-6fb1-403c-9c45-77866842fe94")
 			)
 		)
 	)
@@ -10031,22 +9515,32 @@
 		)
 	)
 	(table
-		(column_count 3)
+		(column_count 2)
 		(border
-			(external no)
-			(header no)
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
 		)
 		(separators
-			(rows no)
-			(cols no)
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
 		)
-		(column_widths 7.62 7.62 7.62)
-		(row_heights 24.13)
+		(column_widths 6.35 19.05)
+		(row_heights 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
+			2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54
+		)
 		(cells
-			(table_cell "High"
+			(table_cell "1"
 				(exclude_from_sim no)
-				(at 312.42 187.96 0)
-				(size 7.62 24.13)
+				(at 20.32 132.08 0)
+				(size 6.35 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -10055,15 +9549,17 @@
 				(effects
 					(font
 						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
 					)
 					(justify top)
 				)
-				(uuid "e97681d6-66ce-48a1-adfb-9a74fbedebf4")
+				(uuid "a266f15b-a5b9-4bea-afb7-81be8b85cbd3")
 			)
-			(table_cell "Neutral"
+			(table_cell "PA2000"
 				(exclude_from_sim no)
-				(at 320.04 187.96 0)
-				(size 7.62 24.13)
+				(at 26.67 132.08 0)
+				(size 19.05 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -10073,14 +9569,32 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify top)
 				)
-				(uuid "5564feb1-ea8d-44df-b95f-bac98743e82e")
+				(uuid "3c2c3d25-b768-4fbe-a69b-539970ab30cf")
 			)
-			(table_cell "Low"
+			(table_cell "2"
 				(exclude_from_sim no)
-				(at 327.66 187.96 0)
-				(size 7.62 24.13)
+				(at 20.32 134.62 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "9c92a970-62a7-46f5-8eb9-a303418f7b8e")
+			)
+			(table_cell "DX1A-02"
+				(exclude_from_sim no)
+				(at 26.67 134.62 0)
+				(size 19.05 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -10090,77 +9604,845 @@
 					(font
 						(size 1.27 1.27)
 					)
+				)
+				(uuid "1d9a4074-8813-4519-a3a6-635414bd4ab1")
+			)
+			(table_cell "3"
+				(exclude_from_sim no)
+				(at 20.32 137.16 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
 					(justify top)
 				)
-				(uuid "ec76aec2-6fb1-403c-9c45-77866842fe94")
+				(uuid "30d8280a-3705-4a95-82b6-5eb9986a6286")
+			)
+			(table_cell "DX1D-01"
+				(exclude_from_sim no)
+				(at 26.67 137.16 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "a3744694-53b4-462e-b474-d5df9dc13d3d")
+			)
+			(table_cell "4"
+				(exclude_from_sim no)
+				(at 20.32 139.7 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "6ca30932-0393-41cb-a641-fe47e300b5a8")
+			)
+			(table_cell "DX1A-05"
+				(exclude_from_sim no)
+				(at 26.67 139.7 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d4a3e07b-a30c-4df3-8e25-c15bb59164f9")
+			)
+			(table_cell "5"
+				(exclude_from_sim no)
+				(at 20.32 142.24 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "52fcc0ac-6b11-4612-b0ec-ff2ca50e1ae5")
+			)
+			(table_cell "DX1A-07"
+				(exclude_from_sim no)
+				(at 26.67 142.24 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d11bc42f-b638-49df-b846-e0927edc35b6")
+			)
+			(table_cell "6"
+				(exclude_from_sim no)
+				(at 20.32 144.78 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "64a485b7-bf83-4106-b0ec-375c1579e327")
+			)
+			(table_cell "N/C"
+				(exclude_from_sim no)
+				(at 26.67 144.78 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "09ce0593-7100-4446-a94c-c9989727ba92")
+			)
+			(table_cell "7"
+				(exclude_from_sim no)
+				(at 20.32 147.32 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "e5a16002-62d1-42dc-94b7-f78993d8a24c")
+			)
+			(table_cell "N/C"
+				(exclude_from_sim no)
+				(at 26.67 147.32 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1f827fda-6832-4b52-9d45-b8243e7da5a4")
+			)
+			(table_cell "8"
+				(exclude_from_sim no)
+				(at 20.32 149.86 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "6de3a86d-648c-4077-8d24-dd8770b362a1")
+			)
+			(table_cell "DX1A-09"
+				(exclude_from_sim no)
+				(at 26.67 149.86 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c07b2224-a0c7-4d52-9a9c-492c62b52888")
+			)
+			(table_cell "9"
+				(exclude_from_sim no)
+				(at 20.32 152.4 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "44f5a77f-2b12-4442-96f2-10f8a30bc9a1")
+			)
+			(table_cell "DX1A-11"
+				(exclude_from_sim no)
+				(at 26.67 152.4 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "b76acca7-26b1-4246-8c90-3bd24e24d70b")
+			)
+			(table_cell "10"
+				(exclude_from_sim no)
+				(at 20.32 154.94 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "4cddbfe5-457c-402a-ba73-17a012cd22d9")
+			)
+			(table_cell "DX1A-12"
+				(exclude_from_sim no)
+				(at 26.67 154.94 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "dc464a7b-e3eb-4a62-8db8-170b9eec2828")
+			)
+			(table_cell "11"
+				(exclude_from_sim no)
+				(at 20.32 157.48 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "0507799a-10e9-47b5-bb59-5d3b0f69a60d")
+			)
+			(table_cell "DX1A-14"
+				(exclude_from_sim no)
+				(at 26.67 157.48 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c060d5a7-04e7-4ed3-80d4-754278193648")
+			)
+			(table_cell "12"
+				(exclude_from_sim no)
+				(at 20.32 160.02 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "f14cac39-396f-428e-bb23-7e2ed73226e0")
+			)
+			(table_cell "DX1A-15"
+				(exclude_from_sim no)
+				(at 26.67 160.02 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "0debfc04-ed53-42aa-86b4-fa761f44e4cc")
+			)
+			(table_cell "13"
+				(exclude_from_sim no)
+				(at 20.32 162.56 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "1332a18b-998e-4e85-8bef-c7bc80c38f77")
+			)
+			(table_cell "PA4000"
+				(exclude_from_sim no)
+				(at 26.67 162.56 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "1c5b6f91-f7d1-4683-abae-5d20622bc872")
+			)
+			(table_cell "14"
+				(exclude_from_sim no)
+				(at 20.32 165.1 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "c164f8a0-a6f8-4467-ace6-362d62d566f7")
+			)
+			(table_cell "DX1A-01"
+				(exclude_from_sim no)
+				(at 26.67 165.1 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "0b9353e1-538a-40f1-a0d8-b6a608421213")
+			)
+			(table_cell "15"
+				(exclude_from_sim no)
+				(at 20.32 167.64 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "ba3a228a-6ef4-4229-b867-180f8ccd8938")
+			)
+			(table_cell "DX1A-03"
+				(exclude_from_sim no)
+				(at 26.67 167.64 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "101e69eb-d14f-48d6-9356-96c290af44f2")
+			)
+			(table_cell "16"
+				(exclude_from_sim no)
+				(at 20.32 170.18 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "8e863088-cfce-43ec-9bc3-471114598f7d")
+			)
+			(table_cell "DX1A-04"
+				(exclude_from_sim no)
+				(at 26.67 170.18 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "7e99cd8f-b3d4-4694-b69f-9cf2f3f77ca1")
+			)
+			(table_cell "17"
+				(exclude_from_sim no)
+				(at 20.32 172.72 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "b495a9ea-af64-4890-af9b-cb4fb991eba9")
+			)
+			(table_cell "DX1A-06"
+				(exclude_from_sim no)
+				(at 26.67 172.72 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "f870e5df-2704-4b69-959c-485fe0169b79")
+			)
+			(table_cell "18"
+				(exclude_from_sim no)
+				(at 20.32 175.26 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "aebcc827-5665-477a-8452-f4f6d38f80f9")
+			)
+			(table_cell "N/C"
+				(exclude_from_sim no)
+				(at 26.67 175.26 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "65b0cbbe-2292-421c-aada-28792fb85a51")
+			)
+			(table_cell "19"
+				(exclude_from_sim no)
+				(at 20.32 177.8 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "4974d807-d270-4c58-87f0-30d381d62736")
+			)
+			(table_cell "N/C"
+				(exclude_from_sim no)
+				(at 26.67 177.8 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d53feb5a-7010-43a4-94fc-64d7f9a32da1")
+			)
+			(table_cell "20"
+				(exclude_from_sim no)
+				(at 20.32 180.34 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "fe3b8543-0a61-46da-b753-39b418b71abb")
+			)
+			(table_cell "DX1A-08"
+				(exclude_from_sim no)
+				(at 26.67 180.34 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "62746c89-bb18-48cb-b824-b46de471a92c")
+			)
+			(table_cell "21"
+				(exclude_from_sim no)
+				(at 20.32 182.88 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "32c87f7b-886c-49e9-b3ab-0360a0cd6f56")
+			)
+			(table_cell "DX1A-10"
+				(exclude_from_sim no)
+				(at 26.67 182.88 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d5b515c1-867f-4022-b158-adb8e4526a82")
+			)
+			(table_cell "22"
+				(exclude_from_sim no)
+				(at 20.32 185.42 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "7e06c2dd-0604-42b0-8408-e1afe7a7253a")
+			)
+			(table_cell "DX1D-02"
+				(exclude_from_sim no)
+				(at 26.67 185.42 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c6af43eb-586f-4305-9e8e-83e22d1a3e9e")
+			)
+			(table_cell "23"
+				(exclude_from_sim no)
+				(at 20.32 187.96 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "e480e119-6fee-4291-80c1-eeeba1204f0f")
+			)
+			(table_cell "DX1A-13"
+				(exclude_from_sim no)
+				(at 26.67 187.96 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "89109ecf-8701-4a04-9e92-797420b9c050")
+			)
+			(table_cell "24"
+				(exclude_from_sim no)
+				(at 20.32 190.5 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "15cc4121-6235-4825-a116-c098609d20b0")
+			)
+			(table_cell "DX1D-01"
+				(exclude_from_sim no)
+				(at 26.67 190.5 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "f0b2f0b7-b561-415d-b512-a9bace0bf184")
+			)
+			(table_cell "25"
+				(exclude_from_sim no)
+				(at 20.32 193.04 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+					(justify top)
+				)
+				(uuid "3810e05a-4dff-4740-8913-ee68be657e6a")
+			)
+			(table_cell "DX1A-16"
+				(exclude_from_sim no)
+				(at 26.67 193.04 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "19a041ca-d1dc-499c-adef-92bea5f871fb")
 			)
 		)
 	)
-	(table
-		(column_count 3)
-		(border
-			(external no)
-			(header no)
-		)
-		(separators
-			(rows no)
-			(cols no)
-		)
-		(column_widths 7.62 7.62 7.62)
-		(row_heights 24.13)
-		(cells
-			(table_cell "Forward"
-				(exclude_from_sim no)
-				(at 312.42 222.25 0)
-				(size 7.62 24.13)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify top)
-				)
-				(uuid "e97681d6-66ce-48a1-adfb-9a74fbedebf4")
+	(label "DX1B-09"
+		(at 224.79 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
-			(table_cell "Neutral"
-				(exclude_from_sim no)
-				(at 320.04 222.25 0)
-				(size 7.62 24.13)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify top)
-				)
-				(uuid "5564feb1-ea8d-44df-b95f-bac98743e82e")
-			)
-			(table_cell "Reverse"
-				(exclude_from_sim no)
-				(at 327.66 222.25 0)
-				(size 7.62 24.13)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify top)
-				)
-				(uuid "ec76aec2-6fb1-403c-9c45-77866842fe94")
-			)
+			(justify left bottom)
 		)
+		(uuid "00e312f1-2c1b-428b-b349-5c8df33d31b4")
+	)
+	(label "DX1B-08"
+		(at 227.33 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02ab1d14-f606-4991-9795-fb3dd9cdaa52")
+	)
+	(label "DX1B-01"
+		(at 245.11 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "066d865a-a984-4f37-a0ce-cf74e43ef6a6")
 	)
 	(label "DX1A-05"
 		(at 135.89 238.76 90)
@@ -10181,6 +10463,16 @@
 			(justify left bottom)
 		)
 		(uuid "0c39f7c0-19c7-45de-b8ce-08551489d679")
+	)
+	(label "DX1B-02"
+		(at 242.57 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ccecdb4-4702-42a2-979e-31964c44a7c3")
 	)
 	(label "DX1B-10"
 		(at 222.25 73.7057 90)
@@ -10262,6 +10554,16 @@
 		)
 		(uuid "1cc6c8ce-18fb-4d33-8934-e53c5b9fa7f0")
 	)
+	(label "DX1B-14"
+		(at 212.09 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1dbd9515-77bf-4577-bc6f-4a22c1121678")
+	)
 	(label "DX1C-CMC"
 		(at 173.99 38.1 90)
 		(effects
@@ -10341,6 +10643,16 @@
 			(justify left bottom)
 		)
 		(uuid "26eb80b9-159d-4029-aa08-0633caadf3b5")
+	)
+	(label "DX1B-16"
+		(at 207.01 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ad32155-d4d5-4ecd-80f3-2d4752fcfa1e")
 	)
 	(label "DX1C-CMA"
 		(at 293.37 113.03 90)
@@ -10442,6 +10754,16 @@
 		)
 		(uuid "3332bfc7-668f-4865-8b54-8b122b911fdd")
 	)
+	(label "DX1D-04"
+		(at 156.21 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "333f7fb1-cfa9-49b7-8bb1-43819a40f249")
+	)
 	(label "DX1C-03"
 		(at 199.39 73.7057 90)
 		(effects
@@ -10522,6 +10844,16 @@
 		)
 		(uuid "3c446f55-0565-43e8-b4be-e1a41c7c351b")
 	)
+	(label "DX1B-04"
+		(at 237.49 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40a2bf66-68fe-41c3-adc8-19b6d1a01f2b")
+	)
 	(label "DX1A-07"
 		(at 336.55 240.03 0)
 		(effects
@@ -10541,6 +10873,26 @@
 			(justify left bottom)
 		)
 		(uuid "4200f452-df89-4ab7-b195-a6439e365b90")
+	)
+	(label "DX1B-12"
+		(at 217.17 113.0288 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "423f7be9-c452-4c05-84f9-ee519239019a")
+	)
+	(label "DX1B-05"
+		(at 234.95 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "43f5e8b3-7dae-4bc5-97e4-2e9a4f181d91")
 	)
 	(label "DX1A-09"
 		(at 177.8 238.76 90)
@@ -10641,6 +10993,16 @@
 			(justify left bottom)
 		)
 		(uuid "4f0c45ab-0c33-45a9-894c-d3d44eb0edb4")
+	)
+	(label "DX1D-05"
+		(at 153.67 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51ae92da-88e0-4c87-948e-9fdb711d4d08")
 	)
 	(label "DX1B-12"
 		(at 217.17 73.6588 90)
@@ -10872,6 +11234,16 @@
 		)
 		(uuid "6f98d4bd-bd11-4927-9949-8471827676b6")
 	)
+	(label "DX1B-06"
+		(at 232.41 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6fd0fc53-db9b-4746-8c35-3dc9fa8c3f6e")
+	)
 	(label "DX1A-16"
 		(at 179.07 147.32 90)
 		(effects
@@ -10901,6 +11273,16 @@
 			(justify left bottom)
 		)
 		(uuid "738e398a-6fdb-4402-af90-59c38d279c09")
+	)
+	(label "PA5000"
+		(at 328.93 104.14 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7393e1dc-687e-426d-8be0-10e726aad149")
 	)
 	(label "DX1A-09"
 		(at 265.43 73.7057 90)
@@ -10961,6 +11343,16 @@
 			(justify left bottom)
 		)
 		(uuid "7c002b97-3a7f-4018-b1bf-d9bb39d6c927")
+	)
+	(label "DX1B-11"
+		(at 219.71 113.0288 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7cd02df6-1372-4990-9530-8de2c87a0094")
 	)
 	(label "PA4000"
 		(at 292.1 189.23 90)
@@ -11051,6 +11443,16 @@
 			(justify left bottom)
 		)
 		(uuid "852b90af-2ffd-4a30-ac00-f9cf3cfd9d87")
+	)
+	(label "DX1B-03"
+		(at 240.03 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86aa6daa-1a79-4bf2-8d0e-df165fc19560")
 	)
 	(label "DX1B-CMC"
 		(at 295.91 113.03 90)
@@ -11161,6 +11563,16 @@
 			(justify right bottom)
 		)
 		(uuid "96f7e2f6-e69d-4b93-b65e-966ab5c21753")
+	)
+	(label "DX1B-13"
+		(at 214.63 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9862f356-40e4-4e9e-9535-a3e233e50615")
 	)
 	(label "DX1C-11"
 		(at 179.07 73.6588 90)
@@ -11332,6 +11744,16 @@
 		)
 		(uuid "b8bbac5b-24a0-4147-b528-ca03f29bc032")
 	)
+	(label "DX1B-07"
+		(at 229.87 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ba1db2b8-c26b-4201-bacb-f5b4f03d9c7a")
+	)
 	(label "DX1A-16"
 		(at 248.92 238.76 90)
 		(effects
@@ -11472,6 +11894,16 @@
 		)
 		(uuid "d0be1100-8765-4808-a7f0-fe002d32b475")
 	)
+	(label "DX1D-06"
+		(at 151.13 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0e38c1f-4d4a-4021-8fb2-b359b2187698")
+	)
 	(label "DX1D-CMA"
 		(at 308.61 62.23 270)
 		(effects
@@ -11592,6 +12024,16 @@
 		)
 		(uuid "e1dd3d20-aa58-4bd5-a24f-a1de46e723c8")
 	)
+	(label "DX1B-15"
+		(at 209.55 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e227f4c6-1dcb-47c6-b7e3-156ea7d8d997")
+	)
 	(label "DX1C-CMA"
 		(at 179.07 38.1 90)
 		(effects
@@ -11611,6 +12053,16 @@
 			(justify left bottom)
 		)
 		(uuid "e69e280e-32f4-4214-acd1-8185bdc35e64")
+	)
+	(label "DX1D-03"
+		(at 158.75 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e835db6a-a49c-4c03-8849-de832869e5c4")
 	)
 	(label "DX1A-04"
 		(at 278.13 113.03 90)
@@ -11682,6 +12134,16 @@
 		)
 		(uuid "efc0be91-8e2b-4222-9e36-647f67b75261")
 	)
+	(label "DX1B-10"
+		(at 222.25 113.0757 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2966d45-3ae9-4d64-8a2f-42cf7e3c9a05")
+	)
 	(label "PA2000"
 		(at 120.65 147.32 90)
 		(effects
@@ -11711,6 +12173,16 @@
 			(justify left bottom)
 		)
 		(uuid "f6269bba-93c1-4852-962b-1b64689ba4f8")
+	)
+	(label "PA6000"
+		(at 326.39 104.14 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f64155b4-e46a-4de3-8f82-48c3802c5af1")
 	)
 	(label "DX1B-CMA"
 		(at 300.99 113.03 90)
@@ -15148,6 +15620,134 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 232.41 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31fddccf-9e18-4c8b-8319-a8935a5b554f")
+		(property "Reference" "#SYM299"
+			(at 230.886 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 233.68 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM299")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 224.79 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "32cdc16e-e216-49c1-958a-0de1ab946c20")
+		(property "Reference" "#SYM296"
+			(at 223.266 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 226.06 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 224.79 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM296")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block")
 		(at 161.29 87.63 180)
 		(unit 1)
@@ -15735,6 +16335,70 @@
 	)
 	(symbol
 		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 234.95 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3824e33e-d2a6-4c3d-a689-75c42abe4cd9")
+		(property "Reference" "#SYM300"
+			(at 233.426 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 236.22 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 234.95 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM300")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
 		(at 214.63 26.67 270)
 		(mirror x)
 		(unit 1)
@@ -16193,6 +16857,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 158.75 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "410ddf16-1c19-4bb9-aaaf-0349da93cae8")
+		(property "Reference" "#SYM287"
+			(at 157.226 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 160.02 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 158.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM287")
 					(unit 1)
 				)
 			)
@@ -17117,6 +17845,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 153.67 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "523fc54c-4845-475b-b405-8666d84610f5")
+		(property "Reference" "#SYM289"
+			(at 152.146 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 154.94 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 153.67 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM289")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block_Blue")
 		(at 288.29 87.63 180)
 		(unit 1)
@@ -17433,6 +18225,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "B7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 326.39 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e3e1676-b6cc-437a-b8f7-829bf9f29dcd")
+		(property "Reference" "#SYM310"
+			(at 324.866 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 327.66 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 326.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 326.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 326.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM310")
 					(unit 1)
 				)
 			)
@@ -18358,6 +19214,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 240.03 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70207d50-3919-4c7e-9e86-e359ada52c3a")
+		(property "Reference" "#SYM302"
+			(at 238.506 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 241.3 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM302")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SW_SPST_15")
 		(lib_id "Switch:SW_SPST")
 		(at 187.96 245.11 90)
@@ -19219,6 +20139,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 209.55 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c678f27-2f88-4997-ada9-175b820a8055")
+		(property "Reference" "#SYM290"
+			(at 208.026 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 210.82 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 209.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 209.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM290")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block_Blue")
 		(at 295.91 87.63 180)
 		(unit 1)
@@ -19408,6 +20392,134 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "B82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 237.49 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "818f14f8-ee18-40e9-aa4b-7655f684f334")
+		(property "Reference" "#SYM301"
+			(at 235.966 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 238.76 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 237.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM301")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 328.93 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82784edb-b5ae-4da3-8dbc-15f28ba54b6b")
+		(property "Reference" "#SYM309"
+			(at 327.406 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 330.2 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM309")
 					(unit 1)
 				)
 			)
@@ -19859,6 +20971,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "#SYM110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 229.87 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d54f600-3229-4345-ac9a-4dcb4ad5a36a")
+		(property "Reference" "#SYM298"
+			(at 228.346 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 231.14 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM298")
 					(unit 1)
 				)
 			)
@@ -20519,6 +21695,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 242.57 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9cffbb19-66fa-42c5-92b5-60b39476d12a")
+		(property "Reference" "#SYM303"
+			(at 241.046 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 243.84 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 242.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 242.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM303")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block")
 		(at 166.37 87.63 180)
 		(unit 1)
@@ -20833,6 +22073,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "#SYM4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 245.11 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a409ffb3-2e61-43a3-91c6-cbdabf38051b")
+		(property "Reference" "#SYM304"
+			(at 243.586 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 246.38 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 245.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 245.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 245.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM304")
 					(unit 1)
 				)
 			)
@@ -21236,6 +22540,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "B90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 222.25 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adef4137-0da1-40d0-9fb5-bed285e1d6a9")
+		(property "Reference" "#SYM295"
+			(at 220.726 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 223.52 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 222.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 222.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM295")
 					(unit 1)
 				)
 			)
@@ -22752,6 +24120,70 @@
 	)
 	(symbol
 		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 212.09 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c578c230-eb2b-4c11-9c60-4f6336bf7544")
+		(property "Reference" "#SYM291"
+			(at 210.566 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 213.36 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 212.09 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 212.09 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM291")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
 		(at 290.83 115.57 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23073,6 +24505,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 207.01 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8dbc3bf-d209-441d-9af4-9de8580692aa")
+		(property "Reference" "#SYM305"
+			(at 205.486 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 208.28 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM305")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block")
 		(at 128.27 87.63 180)
 		(unit 1)
@@ -23203,6 +24699,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 219.71 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ccab1c03-6ce9-48f6-a2ae-613887b297b0")
+		(property "Reference" "#SYM294"
+			(at 218.186 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 220.98 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 219.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM294")
 					(unit 1)
 				)
 			)
@@ -24567,6 +26127,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 214.63 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8078751-9ee2-4892-bc63-987f0aef263f")
+		(property "Reference" "#SYM292"
+			(at 213.106 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 215.9 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 214.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 214.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 214.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM292")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block")
 		(at 158.75 87.63 180)
 		(unit 1)
@@ -24890,6 +26514,134 @@
 		)
 	)
 	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 156.21 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "edd2f7ae-0509-4955-9803-31a7ca006a2f")
+		(property "Reference" "#SYM286"
+			(at 154.686 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 157.48 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 156.21 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 156.21 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM286")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 217.17 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "edeb43bb-ab12-43f1-bd80-d308d58b003e")
+		(property "Reference" "#SYM293"
+			(at 215.646 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 218.44 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 217.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 217.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM293")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DinRailTB:Din Terminal Block")
 		(at 222.25 87.63 180)
 		(unit 1)
@@ -25157,6 +26909,70 @@
 	)
 	(symbol
 		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 227.33 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc8d1a08-d4f3-4f69-b15e-33dbea66ec78")
+		(property "Reference" "#SYM297"
+			(at 225.806 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 228.6 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 227.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM297")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
 		(at 138.43 135.89 270)
 		(mirror x)
 		(unit 1)
@@ -25279,6 +27095,70 @@
 			(project "Class700Sim"
 				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
 					(reference "B58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Arrow_Tiny")
+		(at 151.13 115.57 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fdafbcca-984b-42a3-8d6f-8146278bbbb6")
+		(property "Reference" "#SYM288"
+			(at 149.606 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Arrow_Tiny"
+			(at 152.4 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Filled arrow, 100mil"
+			(at 151.13 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Class700Sim"
+				(path "/4ee86e03-7586-4a46-84d7-9db0ec8984cd"
+					(reference "#SYM288")
 					(unit 1)
 				)
 			)
